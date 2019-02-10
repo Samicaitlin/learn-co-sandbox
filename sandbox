@@ -1,0 +1,12 @@
+var sami = "cuddly"
+
+if (sami === "hungry") {
+console.log("Ethan gets sami a snack.")
+
+} else if (sami === "thristy") {
+console.log("Ethan gets sami a drink.")
+
+} else if (sami === "cuddly") {
+console.log("Yaboi snuggles")
+
+} else {console.log("Sami learns to code.")
